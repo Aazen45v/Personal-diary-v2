@@ -4,9 +4,14 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node api/app.js"
   },
+=======
+  "build": "npm build"
+},
+>>>>>>> 49ce59ddad67d512b666a97066dc78c65903c0ef
   "author": "",
   "license": "ISC",
   "dependencies": {
